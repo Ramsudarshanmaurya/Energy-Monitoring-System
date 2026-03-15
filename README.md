@@ -35,7 +35,7 @@
 
 | Hardware Setup | DWIN Display | Node-RED Dashboard |
 |:-:|:-:|:-:|
-| ![Hardware](image/image4.jpg) | ![DWIN](image/image3.jpg) | ![Dashboard](image/image1.jpg) |
+| ![Hardware](image/image4.jpeg) | ![DWIN](image/image3.jpeg) | ![Dashboard](image/image1.jpeg) |
 | ESP32 + MAX485 + Energy Meter | Live HMI Display | Live Gauges |
 
 | Block Diagram | Circuit Diagram |
